@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">CoinFlipper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_dice_flipper">CoinFlipper</string>
+    
+    <string name="choices">Coin Types</string>
+	<string-array name="coinFaceList">
+	    <item>Troll Caegar</item>
+	    <item>George Washington</item>
+	    <item>Abraham Lincoln</item>
+	    <item>Meme Face</item>
+	    <item>Caegar</item>
+	    <item>ICP</item>
+	</string-array>
+
+</resources>
