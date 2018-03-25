@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">SpeedTapping</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Speed Tapping</string>
+    <string name="lose">You Lose!</string>
+    <string name="results_format">Total time: %1$.1f</string>
+   <string name="reset_game">Reset Game</string>
+   <string name="win">You win!</string>
+</resources>
