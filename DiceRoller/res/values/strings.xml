@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">DiceRoller</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_dice_roller">Dice Roller</string>
+    <string name="choices">Dice Types</string>
+	<string-array name="diceTypeList">
+	    <item>D4</item>
+	    <item>D6</item>
+	    <item>D8</item>
+	    <item>D10</item>
+	    <item>D12</item>
+	    <item>D20</item>
+	    <item>Percentile</item>
+	</string-array>
+</resources>
